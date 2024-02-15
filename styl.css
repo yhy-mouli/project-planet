@@ -10,13 +10,16 @@
 }
 body{
     
-    background-image: url("images/back1.jpg"); 
+    background-image: url("images/back4.png"); 
     width: 100%;
     height: 100%;
     background-position: center;
     display: flex;
     background-attachment: scroll;
     background-size: 100%; 
+}
+audio{
+    padding-top: 220px;
 }
 
 
